@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "SISterna\\Pdo\\": "src/"
+        }
+    },
+    "require": {
+        "ext-pdo": "*"
+    }
+}
